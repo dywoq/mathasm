@@ -1,3 +1,4 @@
+// +build darwin,amd64
 #include "textflag.h"
 
 DATA ·one<>+0(SB)/8, $0x3ff0000000000000
